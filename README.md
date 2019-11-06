@@ -16,4 +16,4 @@ Get six X's - "Hot dice" - Reroll and continue!<br />
 "End Turn" - The only way to add to your Total Score! - Ends your current turn<br />
 Get total score of 10,000 in the least number of turns - Compete with friends<br />
 
-Try it out! :  http://htmlpreview.github.io/? https://github.com/WadeTheWhiteShadow/Farkle/blob/master/game.html
+Try it out! :  http://htmlpreview.github.io/?https://github.com/WadeTheWhiteShadow/Farkle/blob/master/game.html
