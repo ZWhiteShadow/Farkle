@@ -1,5 +1,5 @@
 # Farkle
-Farkle in Javascript
+A Dice Game!
 
 FARKLE<br />
 Scoring:	Rules:<br />
